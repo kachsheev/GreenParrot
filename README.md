@@ -5,4 +5,4 @@ Code color scheme for Qt Creator.
 Copy GreenParrot.xml to `%OS specific directory%/QtProject/qtcreator/styles`
 
 # License
-MIT License. Read view [LICENSE](https://github.com/kachsheev/GreenParrot/blob/master/LICENSE) file. 
+MIT License. View [LICENSE](https://github.com/kachsheev/GreenParrot/blob/master/LICENSE) file. 
