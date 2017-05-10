@@ -9,6 +9,7 @@ Copy GreenParrot.xml to `%OS specific directory%/QtProject/qtcreator/styles`
 ![text](http://savepic.ru/13921653.png)
 
 With turning off highlight blocks.
+
 ![text](http://savepic.ru/13944975.png)
 
 # License
