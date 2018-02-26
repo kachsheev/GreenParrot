@@ -6,11 +6,11 @@ Copy GreenParrot.xml to `%OS specific directory%/QtProject/qtcreator/styles`
 
 # Screenshots
 
-![text](http://ibb.co/hUHbsc)
+![text](http://image.ibb.co/mTTSyH/snapshot_2017_05_10_17_10_28.png)
 
 With turning off highlight blocks.
 
-![text](http://ibb.co/b7hRsc)
+![text](http://image.ibb.co/cPs4dH/snapshot_2017_05_10_17_59_51.png)
 
 # License
 MIT License. View [LICENSE](https://github.com/kachsheev/GreenParrot/blob/master/LICENSE) file. 
