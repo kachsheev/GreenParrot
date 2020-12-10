@@ -34,20 +34,20 @@
   <style name="Doxygen.Comment" foreground="#d8b0ff"/>
   <style name="Doxygen.Tag" foreground="#7f7fff"/>
   <style name="VisualWhitespace" foreground="#c0c0c0"/>
-  <style name="QmlLocalId" foreground="#000000" italic="true"/>
-  <style name="QmlExternalId" foreground="#000080" italic="true"/>
-  <style name="QmlTypeId" foreground="#7704f9"/>
-  <style name="QmlRootObjectProperty" foreground="#000000" italic="true"/>
-  <style name="QmlScopeObjectProperty" foreground="#000000" italic="true"/>
-  <style name="QmlExternalObjectProperty" foreground="#000080" italic="true"/>
-  <style name="JsScopeVar" foreground="#133f5f" italic="true"/>
-  <style name="JsImportVar" foreground="#0055af" italic="true"/>
-  <style name="JsGlobalVar" foreground="#0055af" italic="true"/>
-  <style name="QmlStateName" foreground="#000000" italic="true"/>
+  <style name="QmlLocalId" foreground="#ffffff"/>
+  <style name="QmlExternalId" foreground="#ffffff"/>
+  <style name="QmlTypeId" foreground="#ffffff"/>
+  <style name="QmlRootObjectProperty" foreground="#ffffff"/>
+  <style name="QmlScopeObjectProperty" foreground="#ffffff"/>
+  <style name="QmlExternalObjectProperty" foreground="#ffffff"/>
+  <style name="JsScopeVar" foreground="#ffffff"/>
+  <style name="JsImportVar" foreground="#ffffff"/>
+  <style name="JsGlobalVar" foreground="#ffffff"/>
+  <style name="QmlStateName" foreground="#ffffff"/>
   <style name="Binding" foreground="#a35d07"/>
   <style name="DisabledCode" foreground="#000000" background="#7e7e7e"/>
   <style name="AddedLine" foreground="#5fff5f"/>
-  <style name="RemovedLine" foreground="#8c3f01"/>
+  <style name="RemovedLine" foreground="#b45000"/>
   <style name="DiffFile" foreground="#000080"/>
   <style name="DiffLocation" foreground="#0000ff"/>
   <style name="DiffFileLine" foreground="#000000" background="#ffff00"/>
@@ -57,12 +57,17 @@
   <style name="DiffDestLine" foreground="#000000" background="#dfffdf"/>
   <style name="DiffDestChar" foreground="#000000" background="#afffaf"/>
   <style name="LogChangeLine" foreground="#c00000"/>
+  <style name="LogAuthorName" foreground="#007af4"/>
+  <style name="LogCommitDate" foreground="#006600"/>
+  <style name="LogCommitHash" foreground="#ff0000"/>
+  <style name="LogCommitSubject"/>
+  <style name="LogDecoration" foreground="#ff00ff"/>
   <style name="Warning" underlineColor="#ffbe00" underlineStyle="SingleUnderline"/>
   <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
   <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
   <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
   <style name="Declaration"/>
-  <style name="FunctionDefinition"/>
+  <style name="FunctionDefinition" bold="true" italic="true"/>
   <style name="OutputArgument" italic="true"/>
   <style name="LastStyleSentinel"/>
 </style-scheme>
