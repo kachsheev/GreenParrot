@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="GreenParrot">
-  <style name="Text" foreground="#ffffff" background="#001e1e"/>
+  <style name="Text" foreground="#ffffff" background="#003030"/>
   <style name="Link" foreground="#00e6ff"/>
   <style name="Selection" foreground="#ffffff" background="#167eb6"/>
   <style name="LineNumber" foreground="#00ffff" background="#0b0a0a"/>
   <style name="SearchResult" foreground="#000000" background="#ffef0b"/>
+  <style name="SearchResultAlt1" foreground="#000033" background="#b6ccff"/>
+  <style name="SearchResultAlt2" foreground="#330000" background="#ffb6cc"/>
   <style name="SearchScope" foreground="#000000" background="#8e8e91"/>
   <style name="Parentheses" foreground="#ff0000" background="#b4eeb4"/>
   <style name="ParenthesesMismatch" foreground="#000000" background="#ff00ff"/>
@@ -18,6 +20,7 @@
   <style name="String" foreground="#00ffff"/>
   <style name="Type" foreground="#ffff00" bold="true"/>
   <style name="Local" foreground="#e1e284"/>
+  <style name="Parameter" foreground="#e1e284"/>
   <style name="Global" foreground="#aaaaff"/>
   <style name="Field" foreground="#95f100"/>
   <style name="Static" foreground="#027cff" bold="true"/>
@@ -31,9 +34,9 @@
   <style name="Preprocessor" foreground="#00ff00" bold="true"/>
   <style name="Label" foreground="#dc0000"/>
   <style name="Comment" foreground="#9d9d9d"/>
-  <style name="Doxygen.Comment" foreground="#d8b0ff"/>
-  <style name="Doxygen.Tag" foreground="#7f7fff"/>
-  <style name="VisualWhitespace" foreground="#c0c0c0"/>
+  <style name="Doxygen.Comment" foreground="#949d76"/>
+  <style name="Doxygen.Tag" foreground="#769d7f" bold="true"/>
+  <style name="VisualWhitespace" foreground="#606060"/>
   <style name="QmlLocalId" foreground="#ffffff"/>
   <style name="QmlExternalId" foreground="#ffffff"/>
   <style name="QmlTypeId" foreground="#ffffff"/>
