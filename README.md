@@ -2,7 +2,9 @@
 Code color scheme for Qt Creator.
 
 # How to use
-Copy GreenParrot.xml to `%OS specific directory%/QtProject/qtcreator/styles`
+Copy GreenParrot.xml to `%OS specific directory%/QtProject/qtcreator/styles`, where OS specific direcotry:
+* Windows -- `C:\Users\%USERNAME%\AppData\Roaming`
+* Linux -- `/home/${USER}/.config`
 
 # Screenshots
 
