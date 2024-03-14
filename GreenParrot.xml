@@ -20,6 +20,7 @@
   <style name="Number" foreground="#00b4ff"/>
   <style name="String" foreground="#00ffff"/>
   <style name="Type" foreground="#ffff00" bold="true"/>
+  <style name="Concept" foreground="#d5ff00" bold="true"/>
   <style name="Namespace" foreground="#ffff7f" bold="true"/>
   <style name="Local" foreground="#e1e284"/>
   <style name="Parameter" foreground="#e1e284"/>
@@ -35,7 +36,7 @@
   <style name="Punctuation"/>
   <style name="Preprocessor" foreground="#00ff00" bold="true"/>
   <style name="Macro" foreground="#00ff77" bold="true"/>
-  <style name="Label" foreground="#dc0000"/>
+  <style name="Label" foreground="#dc5800" bold="true"/>
   <style name="Comment" foreground="#9d9d9d"/>
   <style name="Doxygen.Comment" foreground="#949d76"/>
   <style name="Doxygen.Tag" foreground="#769d7f" bold="true"/>
@@ -50,7 +51,7 @@
   <style name="JsImportVar" foreground="#ffffff"/>
   <style name="JsGlobalVar" foreground="#ffffff"/>
   <style name="QmlStateName" foreground="#ffffff"/>
-  <style name="Binding" foreground="#a35d07"/>
+  <style name="Binding" foreground="#ffffff"/>
   <style name="DisabledCode" foreground="#000000" background="#7e7e7e"/>
   <style name="AddedLine" foreground="#5fff5f"/>
   <style name="RemovedLine" foreground="#b45000"/>
